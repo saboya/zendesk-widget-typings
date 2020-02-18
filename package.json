@@ -1,0 +1,9 @@
+{
+  "name": "zendesk-widget-typings",
+  "version": "0.0.1",
+  "description": "TypeScript definitions for the ZenDesk embedded WebWdiget",
+  "types": "index",
+  "repository": "git@github.com:saboya/zendesk-widget-typings.git",
+  "author": "Rodrigo Saboya",
+  "license": "MIT"
+}
